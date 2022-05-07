@@ -1,0 +1,34 @@
+{
+  "version": "4.5.12",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          226.90625,
+          228.40625
+        ],
+        [
+          215.96875,
+          260.4375
+        ],
+        [
+          317.53125,
+          263.5625
+        ],
+        [
+          326.125,
+          233.875
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../../Downloads/20220507/地下一层_B1-217-鲁A06LQ7.jpg",
+  "imageData": null,
+  "imageHeight": 455,
+  "imageWidth": 692
+}
