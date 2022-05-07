@@ -1,0 +1,34 @@
+{
+  "version": "4.5.12",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          170.3125,
+          305.78125
+        ],
+        [
+          182.03125,
+          358.90625
+        ],
+        [
+          352.34375,
+          356.5625
+        ],
+        [
+          339.0625,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../../Downloads/20220506/B2_2277-粤AD34150.jpg",
+  "imageData": null,
+  "imageHeight": 690,
+  "imageWidth": 696
+}

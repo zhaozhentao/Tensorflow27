@@ -1,0 +1,34 @@
+{
+  "version": "4.5.12",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          333.0,
+          218.33333333333331
+        ],
+        [
+          329.0,
+          250.33333333333331
+        ],
+        [
+          411.0,
+          251.66666666666669
+        ],
+        [
+          417.0,
+          223.66666666666669
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../../Downloads/20220507/地下一层_D1-157-鲁AL98G5.jpg",
+  "imageData": null,
+  "imageHeight": 431,
+  "imageWidth": 593
+}
