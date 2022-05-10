@@ -1,0 +1,34 @@
+{
+  "version": "4.5.12",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          265.0,
+          260.0
+        ],
+        [
+          257.0,
+          308.6666666666667
+        ],
+        [
+          372.3333333333333,
+          323.3333333333333
+        ],
+        [
+          381.6666666666667,
+          278.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../../../../Downloads/20220510/b1_1625-粤E216KM.jpg",
+  "imageData": null,
+  "imageHeight": 661,
+  "imageWidth": 585
+}
