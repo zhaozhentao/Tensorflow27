@@ -1,0 +1,34 @@
+{
+  "version": "4.5.12",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          336.37373737373736,
+          423.2828282828283
+        ],
+        [
+          337.3838383838384,
+          495.0
+        ],
+        [
+          564.6565656565657,
+          495.0
+        ],
+        [
+          565.6666666666666,
+          428.33333333333337
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "../../dd/WechatIMG22.jpeg",
+  "imageData": null,
+  "imageHeight": 600,
+  "imageWidth": 900
+}
